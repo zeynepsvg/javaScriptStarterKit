@@ -15,3 +15,4 @@ function asal(number) {
 
 
 asal(7)
+
